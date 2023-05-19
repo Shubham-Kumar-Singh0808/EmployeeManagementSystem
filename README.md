@@ -1,4 +1,4 @@
-# LearningReactJS
+# Employee Management System
 # Project Description <br>
 The React CRUD Application with Material UI and React Bootstrap is a project that aims to provide a user-friendly interface for performing CRUD (Create, Read, Update, Delete) operations on an API. The project leverages the power of React.js, Material UI, and React Bootstrap to create a modern and visually appealing user experience.
 
